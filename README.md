@@ -25,6 +25,19 @@ deployment to production.
  - Other
    -  [Hashicorp Vault](https://www.vaultproject.io), [Nuke](https://nuke.build), vSphere, Tanzu, Rancher and many more
 
+## Consulting
+
+I currently do not have time to take on any more full scale projects but **I'm available in a consulting capacity**. Please contact
+me through one of the channels mentioned below if you're interested.
+
+I believe in full transparency from the start so here are my rates (including all relevant taxes):
+
+| Unit   | Price  | Notes                                                      |
+|--------|--------|------------------------------------------------------------|
+| Hourly | $100   | For one-offs and very small projects                       |
+| MD     | $400   | For commitments totalling above 80 hours                   |
+| Custom | Custom | For long-term commitments, individual pricing is available |
+
 ## Getting in Touch
 
 Here are a few ways you can get in touch with me, ordered by how likely I am to get back to you in a timely manner: [^2]
