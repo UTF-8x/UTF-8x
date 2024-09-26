@@ -6,6 +6,25 @@ My main *forte* is building DevSecOps end-to-end delivery "platforms" that guide
 development process, from scaffolding new projects, through the first commit and successful CI run all the way to an automated
 deployment to production.
 
+### My Usual Stack
+
+- Various versions of .NET, C#, F#, VB.NET, etc.
+- Kubernetes
+  - [Helm](https://helm.sh) and [Kustomize](https://kustomize.io) for packaging / configuration management
+  - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) or [Flux](https://fluxcd.io) for Continuous Deployment
+  - [Backstage](https://backstage.io) for better DevEx
+  - [Grafana LGTM](https://grafana.com) stack for Observability
+- Continuous Integration
+  - CI Platforms
+    - GitLab Pipelines
+    - GitHub Actions
+    - Argo Workflows
+  - Security / Compliance
+    - [SonarQube](https://www.sonarsource.com/products/sonarqube/)
+    - [Snyk](https://snyk.io)
+ - Other
+   -  [Hashicorp Vault](https://www.vaultproject.io), [Nuke](https://nuke.build), vSphere, Tanzu, Rancher and many more
+
 ## Getting in Touch
 
 Here are a few ways you can get in touch with me, ordered by how likely I am to get back to you in a timely manner: [^2]
@@ -22,7 +41,7 @@ Here are a few ways you can get in touch with me, ordered by how likely I am to 
 
 ## Public Keys
 
-- `hello [at] jakubsycha [dot] com`: `51E406591E962B190BEB65DA8CC4DE4F1B9F465A`
+- `hello [at] jakubsycha [dot] com`: `51E406591E962B190BEB65DA8CC4DE4F1B9F465A` [Full Key](/hello_at_jakubsycha_dot_com.pem)
 
 <!--
 **UTF-8x/UTF-8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
