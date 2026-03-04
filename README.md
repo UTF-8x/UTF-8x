@@ -8,7 +8,8 @@ deployment to production.
 
 ### My Usual Stack
 
-- Various versions of .NET, C#, F#, VB.NET, etc.
+- Various versions of .NET, C#, F#, etc.
+- The [Wisp Framework](https://github.com/WispFramework/Wisp)
 - Kubernetes
   - [Helm](https://helm.sh) and [Kustomize](https://kustomize.io) for packaging / configuration management
   - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) or [Flux](https://fluxcd.io) for Continuous Deployment
